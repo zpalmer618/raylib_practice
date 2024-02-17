@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+donkey = { git = "https://github.com/ntBre/donkey", version = "0.1.0" }
+raylib-sys = { git = "https://github.com/ntBre/donkey", version = "0.1.0" }
