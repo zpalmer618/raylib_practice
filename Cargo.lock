@@ -69,7 +69,7 @@ dependencies = [
 [[package]]
 name = "donkey"
 version = "0.1.0"
-source = "git+https://github.com/ntBre/donkey#72014e0218f0718cc3eb597cb0394a9f3095c925"
+source = "git+https://github.com/ntBre/donkey#2eed1254c74d04c8865691d7f0b2e7d460889010"
 dependencies = [
  "raylib-sys",
 ]
@@ -213,7 +213,7 @@ dependencies = [
 [[package]]
 name = "raylib-sys"
 version = "0.1.0"
-source = "git+https://github.com/ntBre/donkey#72014e0218f0718cc3eb597cb0394a9f3095c925"
+source = "git+https://github.com/ntBre/donkey#2eed1254c74d04c8865691d7f0b2e7d460889010"
 dependencies = [
  "bindgen",
 ]
