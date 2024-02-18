@@ -103,8 +103,13 @@ fn main() {
 }
 
 // The below is another way of manual making a movable rectangle.
+
+// This would go at the top of fn main()
 // let mut rectpos = donkey::vector2!((w / 2) as f32, (h / 2) as f32);
 // let rectsize = donkey::vector2!(200., 100.);
+
+// This goes where you begin drawing the window.
+
 // win.draw_rectangle_v(rectpos, rectsize, BLACK);
 // win.draw_text(
 //     "Player 1",
